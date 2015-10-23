@@ -1,0 +1,1 @@
+MainPackage=C:\SourceCode\InterApplicationCommunication\BackgroundHeadlessApplication\bin\ARM\Release\BackgroundHeadlessApplication_1.0.1.0_ARM.appx
